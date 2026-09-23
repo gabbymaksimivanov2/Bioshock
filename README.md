@@ -221,4 +221,4 @@ BioShock is available as a complete free version with all features and updates i
 Dive into the captivating world of BioShock today! Download your free copy and experience the adventure of a lifetime.
 
 ---
-**Last updated:** 2026-09-22 23:28:28 UTC
+**Last updated:** 2026-09-23 03:14:52 UTC
